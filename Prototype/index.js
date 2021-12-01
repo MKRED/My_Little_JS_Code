@@ -24,6 +24,6 @@ const lena = Object.create(person)
 lena.name = 'Elena'
 
 const str = 'I am string'
-// We can srt.sayHello wow!
+// We can srt.sayHello wow!~
 
 // ~~ Its all) ~~
