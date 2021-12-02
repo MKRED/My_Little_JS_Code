@@ -10,6 +10,6 @@ console.log('Start 2')
 
 setTimeout(() => {
     console.log('InsideTimeOut')
-}, 0)
+}, 0) // Выполнится последним
 
 console.log('End')
