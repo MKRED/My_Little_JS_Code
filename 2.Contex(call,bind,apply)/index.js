@@ -22,7 +22,7 @@ const lena = {
     age: 23,
 }
 
-//person.logInfo.bind(lena, 'frontend', '8-800-555-35-35')()
+//person.logInfo.bind(lena, 'frontend', '8-800-555-35-35')() // Нужно вызвать как функцию
 
 // person.logInfo.call(lena, 'frontend', '8-800-555-35-35') //Вызывает сразу
 
